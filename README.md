@@ -1,5 +1,5 @@
 # esp32_blink
-My first program involving an esp32 microcontroller.
+My first program for an esp32 microcontroller.
 
 Tools used:
 
