@@ -55,3 +55,5 @@ This resets the gpio pin 2 to its default hardware state and removes any previou
 gpio_set_direction(LED_BLUE, GPIO_MODE_OUTPUT);
 ```
 It configures that GPIO pin to act as an output, meaning the ESP32 will drive the voltage on the pin (HIGH or LOW) instead of reading it.
+
+Blinking status can also be seen on the serial monitor in the terminal window.
