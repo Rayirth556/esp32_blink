@@ -1,6 +1,6 @@
 # esp32_blink
 My first program for an esp32 microcontroller.
-
+The goal of this program is to make the blue led on the board blink.
 Tools used:
 
 ESP32, ESP-IDF
